@@ -11,4 +11,5 @@
 ![](https://github.com/user-attachments/assets/e7edca9a-ccb3-48a1-b221-f58db4ee763d)
 ![](https://github.com/user-attachments/assets/23760fff-ec33-4857-886e-026d5cf2bc77)
 ![](https://github.com/user-attachments/assets/3d08cd6c-6583-44b1-bf5d-90282d681ccb)
-## Étape 3 — Configurer le proxy et installer la CA
+## Étape 4 — Lancer l’app avec Objection et désactiver le pinning
+![](https://github.com/user-attachments/assets/8d42d0ee-a545-4cff-8667-ef6ae0aff818)
